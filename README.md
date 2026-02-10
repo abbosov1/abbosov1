@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abbosov Muhammadjon and I'm 17 years old. I'm from Uzbekistan
-- 👀 I’m interested in Python development
+- 👋 Hi, I’m Abbosov Muhammadjon and I'm 1 years old. I'm from Uzbekistan
+- 👀 I’m Python development
 - 💞️ I’m looking to collaborate on creating big projects
 - 📫 How to reach me
 - I'm at social networks:
