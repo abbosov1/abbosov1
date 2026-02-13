@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abbosov Muhammadjon and I'm 1 years old. I'm from Uzbekistan
+- 👋 Hi, I’m Abbosov Muhammadjon and I'm 18 years old. I'm from Uzbekistan
 - 👀 I’m Python development
 - 💞️ I’m looking to collaborate on creating big projects
 - 📫 How to reach me
