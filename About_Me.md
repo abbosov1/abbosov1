@@ -624,7 +624,7 @@ current_status = {
 <br>
 
 ### 📧 Professional Contact
-**Email:** abbosov.dev@gmail.com *(Your email here)*
+**Email:** muhammadjon5183@gmail.com
 
 </div>
 
