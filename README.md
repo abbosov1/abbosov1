@@ -99,9 +99,9 @@ print(developer.current_status())
 
 ```yaml
 Tech Stack:
-  Backend: React/Node.js
+  Backend: Node.js/Next.js
   Database: MongoDB
-  Frontend: Typescript, JavaScript, Tailwind
+  Frontend: Next.js
   Deployment: Vercel
   
 Key Features:
